@@ -1,0 +1,1 @@
+import pandas, jupyterlab, openai, langchain, pinecone; print("packages ok")
